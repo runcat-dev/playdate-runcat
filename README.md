@@ -6,7 +6,7 @@ RunCat endless game for [Playdate](https://play.date). This project is written i
 
 ## How to play on your Playdate
 
-Please sideload the [latest pdx file](https://github.com/Kyome22/playdate-runcat/releases) to your Playdate.
+Please sideload the [latest pdx file](https://github.com/runcat-dev/playdate-runcat/releases) to your Playdate.
 For detailed instructions, please refer to the following site.
 
 https://help.play.date/games/sideloading/
@@ -14,9 +14,9 @@ https://help.play.date/games/sideloading/
 ## Requirements
 
 - macOS 14 or later
-- Swift 6.2+ (Xcode 26+)
+- Swift 6.2+ (Xcode 26.4+)
 - [Playdate SDK](https://play.date/dev/)
-- [PlaydateKit](https://github.com/finnvoor/PlaydateKit) (as a sibling directory `../PlaydateKit`)
+- [PlaydateKit](https://github.com/finnvoor/PlaydateKit)
 
 ## How to build
 
