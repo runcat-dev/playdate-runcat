@@ -1,6 +1,5 @@
 import PlaydateKit
 
-@PlaydateMain
 final class Game: PlaydateGame {
     var frameCounter = UInt8.zero
     var lastButtons = PDButtons()

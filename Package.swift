@@ -17,8 +17,10 @@ let package = Package(
         ),
     ],
     dependencies: [
-        // .package(path: "../PlaydateKit"),
-        .package(url: "https://github.com/Kyome22/PlaydateKit.git", branch: "xcode26"),
+        .package(
+            url: "https://github.com/finnvoor/PlaydateKit.git",
+            revision: "c4d1b2f6d3eeecab5b2012ec7179bab86cddeb2c"
+        ),
     ],
     targets: [
         .target(

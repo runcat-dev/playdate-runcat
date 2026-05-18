@@ -1,22 +1,12 @@
 {
-  "originHash" : "3071c1b4f446d6978c34e66e2077c23c752297cf620a73b7aaa94819eaf9451c",
+  "originHash" : "ce9a3c4b62a7c48ea58674d591bde5f840543a5f3a64de79df90f960f8283b8a",
   "pins" : [
     {
       "identity" : "playdatekit",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/Kyome22/PlaydateKit.git",
+      "location" : "https://github.com/finnvoor/PlaydateKit.git",
       "state" : {
-        "branch" : "xcode26",
-        "revision" : "0cf9a0b6cb1cc13113e29a0c8266774a92dcb34d"
-      }
-    },
-    {
-      "identity" : "swift-syntax",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/swiftlang/swift-syntax.git",
-      "state" : {
-        "revision" : "f99ae8aa18f0cf0d53481901f88a0991dc3bd4a2",
-        "version" : "601.0.1"
+        "revision" : "c4d1b2f6d3eeecab5b2012ec7179bab86cddeb2c"
       }
     }
   ],
